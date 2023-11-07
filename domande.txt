@@ -1,0 +1,7 @@
+Algoritmo = l'algoritmo non è altro che una precisa e ben definita procedura per fare o realizzare una determinata cosa, al fine di ottenere un risultato voluto.
+
+
+Variante = Una variabile è un contenitore di dati e serve a dichiarare e quindi memorizzare un oggetto, a cui viene assegnata un nome e un valore e che ad ogni azione può essere riscritta e soggeta a un cambiamento.
+
+
+Undefined e null = In JavaScript, una variabile si dice "Undefined" quando viene dichiarata, ma successivamente non le viene assegnato un valore. Mentre il valore "null", è per l'appunto un valore, intenzionalmente assegnato a una variabile dichiarata.
